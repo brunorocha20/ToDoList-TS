@@ -1,0 +1,23 @@
+{
+  "name": "todolist-ts",
+  "version": "1.0.0",
+  "description": "To Do List - TypeScript Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunorocha20/ToDoList-TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunorocha20/ToDoList-TS/issues"
+  },
+  "homepage": "https://github.com/brunorocha20/ToDoList-TS#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
